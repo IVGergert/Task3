@@ -13,4 +13,9 @@ public class VanWaitingStateImpl implements VanState {
         logger.info("Van {} moved from WAITING to PROCESSING.", van.getId());
         van.setState(new VanProcessingStateImpl());
     }
+
+    @Override
+    public String getNameState() {
+        return "WAITING";
+    }
 }

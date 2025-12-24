@@ -10,7 +10,12 @@ public class VanProcessingStateImpl implements VanState {
 
     @Override
     public void nextVan(Van van) {
-        logger.info("Van {} finished work. Leaving terminal.", van.getId());
+        logger.info("Van {} finished {}. finished work. Leaving terminal.", van.getId(), van.getOperation());
         van.setState(new VanCompletedStateImpl());
+    }
+
+    @Override
+    public String getNameState() {
+        return "PROCESSING";
     }
 }

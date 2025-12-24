@@ -12,4 +12,9 @@ public class VanCompletedStateImpl implements VanState {
     public void nextVan(Van van) {
         logger.info("Van {} finished work. Leaving terminal.", van.getId());
     }
+
+    @Override
+    public String getNameState() {
+        return "COMPLETED";
+    }
 }

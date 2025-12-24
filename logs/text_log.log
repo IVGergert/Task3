@@ -1,0 +1,300 @@
+2025-12-24 11:46:43.367 [main] INFO  com.gergert.task3.application.main - Starting testing application
+2025-12-24 11:46:43.373 [main] INFO  gergert.task3.reader.impl.ReadDataFromFileImpl - Reading file: data/vans.txt
+2025-12-24 11:46:43.375 [main] INFO  gergert.task3.reader.impl.ReadDataFromFileImpl - Success on reading file, Read 25 lines from file data\vans.txt
+2025-12-24 11:46:43.377 [main] INFO  gergert.task3.parser.impl.VanParserImpl - Parsed 25 vans.
+2025-12-24 11:46:43.390 [pool-2-thread-2] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 2 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-24] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 24 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.391 [pool-2-thread-7] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 7 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.391 [pool-2-thread-11] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 11 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-16] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 16 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.391 [pool-2-thread-8] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 8 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.391 [pool-2-thread-25] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 25 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-10] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 10 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-1] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 1 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.391 [pool-2-thread-3] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 3 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.391 [pool-2-thread-20] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 20 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-21] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 21 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.391 [pool-2-thread-18] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 18 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-22] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 22 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-23] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 23 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-6] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 6 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-4] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 4 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.391 [pool-2-thread-17] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 17 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.391 [pool-2-thread-9] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 9 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-14] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 14 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.391 [pool-2-thread-19] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 19 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-5] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 5 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.390 [pool-2-thread-13] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 13 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.392 [pool-2-thread-1] INFO  com.gergert.task3.entity.LogisticBase - Van 1 acquired Terminal[id=1].
+2025-12-24 11:46:43.390 [pool-2-thread-15] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 15 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.394 [pool-2-thread-1] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 1 moved from WAITING to PROCESSING.
+2025-12-24 11:46:43.394 [pool-2-thread-22] INFO  com.gergert.task3.entity.LogisticBase - Van 22 acquired Terminal[id=2].
+2025-12-24 11:46:43.390 [pool-2-thread-12] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 12 is initialized and heading to the Logistic Base.
+2025-12-24 11:46:43.394 [pool-2-thread-22] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 22 moved from WAITING to PROCESSING.
+2025-12-24 11:46:43.394 [pool-2-thread-21] INFO  com.gergert.task3.entity.LogisticBase - Van 21 acquired Terminal[id=3].
+2025-12-24 11:46:43.394 [pool-2-thread-21] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 21 moved from WAITING to PROCESSING.
+2025-12-24 11:46:43.394 [pool-2-thread-7] INFO  com.gergert.task3.entity.LogisticBase - Van 7 acquired Terminal[id=4].
+2025-12-24 11:46:43.394 [pool-2-thread-7] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 7 moved from WAITING to PROCESSING.
+2025-12-24 11:46:43.394 [pool-2-thread-23] INFO  com.gergert.task3.entity.LogisticBase - Van 23 acquired Terminal[id=5].
+2025-12-24 11:46:43.395 [pool-2-thread-23] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 23 moved from WAITING to PROCESSING.
+2025-12-24 11:46:43.395 [pool-2-thread-9] DEBUG com.gergert.task3.entity.LogisticBase - Van 9 normal waits.
+2025-12-24 11:46:43.395 [pool-2-thread-11] DEBUG com.gergert.task3.entity.LogisticBase - Van 11 perishable waits for terminal.
+2025-12-24 11:46:43.395 [pool-2-thread-24] DEBUG com.gergert.task3.entity.LogisticBase - Van 24 perishable waits for terminal.
+2025-12-24 11:46:43.395 [pool-2-thread-18] DEBUG com.gergert.task3.entity.LogisticBase - Van 18 perishable waits for terminal.
+2025-12-24 11:46:43.395 [pool-2-thread-14] DEBUG com.gergert.task3.entity.LogisticBase - Van 14 normal waits.
+2025-12-24 11:46:43.397 [pool-2-thread-19] DEBUG com.gergert.task3.entity.LogisticBase - Van 19 normal waits.
+2025-12-24 11:46:43.397 [pool-2-thread-2] DEBUG com.gergert.task3.entity.LogisticBase - Van 2 normal waits.
+2025-12-24 11:46:43.397 [pool-2-thread-10] DEBUG com.gergert.task3.entity.LogisticBase - Van 10 normal waits.
+2025-12-24 11:46:43.397 [pool-2-thread-25] DEBUG com.gergert.task3.entity.LogisticBase - Van 25 normal waits.
+2025-12-24 11:46:43.398 [pool-2-thread-8] DEBUG com.gergert.task3.entity.LogisticBase - Van 8 perishable waits for terminal.
+2025-12-24 11:46:43.398 [pool-2-thread-3] DEBUG com.gergert.task3.entity.LogisticBase - Van 3 normal waits.
+2025-12-24 11:46:43.398 [pool-2-thread-5] DEBUG com.gergert.task3.entity.LogisticBase - Van 5 perishable waits for terminal.
+2025-12-24 11:46:43.398 [pool-2-thread-16] DEBUG com.gergert.task3.entity.LogisticBase - Van 16 normal waits.
+2025-12-24 11:46:43.398 [pool-2-thread-17] DEBUG com.gergert.task3.entity.LogisticBase - Van 17 normal waits.
+2025-12-24 11:46:43.399 [pool-2-thread-20] DEBUG com.gergert.task3.entity.LogisticBase - Van 20 normal waits.
+2025-12-24 11:46:43.399 [pool-2-thread-13] DEBUG com.gergert.task3.entity.LogisticBase - Van 13 normal waits.
+2025-12-24 11:46:43.399 [pool-2-thread-4] DEBUG com.gergert.task3.entity.LogisticBase - Van 4 normal waits.
+2025-12-24 11:46:43.399 [pool-2-thread-6] DEBUG com.gergert.task3.entity.LogisticBase - Van 6 normal waits.
+2025-12-24 11:46:43.399 [pool-2-thread-15] DEBUG com.gergert.task3.entity.LogisticBase - Van 15 perishable waits for terminal.
+2025-12-24 11:46:43.400 [pool-2-thread-12] DEBUG com.gergert.task3.entity.LogisticBase - Van 12 normal waits.
+2025-12-24 11:46:44.317 [pool-2-thread-22] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 22 finished work. Leaving terminal.
+2025-12-24 11:46:44.318 [pool-2-thread-22] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=2] released.
+2025-12-24 11:46:44.319 [pool-2-thread-11] INFO  com.gergert.task3.entity.LogisticBase - Van 11 acquired Terminal[id=2].
+2025-12-24 11:46:44.319 [pool-2-thread-11] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 11 moved from WAITING to PROCESSING.
+2025-12-24 11:46:44.532 [pool-2-thread-1] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 1 finished work. Leaving terminal.
+2025-12-24 11:46:44.532 [pool-2-thread-1] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=1] released.
+2025-12-24 11:46:44.533 [pool-2-thread-24] INFO  com.gergert.task3.entity.LogisticBase - Van 24 acquired Terminal[id=1].
+2025-12-24 11:46:44.533 [pool-2-thread-24] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 24 moved from WAITING to PROCESSING.
+2025-12-24 11:46:44.659 [pool-2-thread-23] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 23 finished work. Leaving terminal.
+2025-12-24 11:46:44.659 [pool-2-thread-23] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:46:44.660 [pool-2-thread-18] INFO  com.gergert.task3.entity.LogisticBase - Van 18 acquired Terminal[id=5].
+2025-12-24 11:46:44.660 [pool-2-thread-18] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 18 moved from WAITING to PROCESSING.
+2025-12-24 11:46:45.044 [pool-2-thread-11] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 11 finished work. Leaving terminal.
+2025-12-24 11:46:45.044 [pool-2-thread-11] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=2] released.
+2025-12-24 11:46:45.045 [pool-2-thread-8] INFO  com.gergert.task3.entity.LogisticBase - Van 8 acquired Terminal[id=2].
+2025-12-24 11:46:45.045 [pool-2-thread-8] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 8 moved from WAITING to PROCESSING.
+2025-12-24 11:46:45.261 [pool-2-thread-21] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 21 finished work. Leaving terminal.
+2025-12-24 11:46:45.261 [pool-2-thread-21] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=3] released.
+2025-12-24 11:46:45.262 [pool-2-thread-5] INFO  com.gergert.task3.entity.LogisticBase - Van 5 acquired Terminal[id=3].
+2025-12-24 11:46:45.262 [pool-2-thread-5] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 5 moved from WAITING to PROCESSING.
+2025-12-24 11:46:45.364 [pool-2-thread-7] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 7 finished work. Leaving terminal.
+2025-12-24 11:46:45.364 [pool-2-thread-7] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:46:45.364 [pool-2-thread-15] INFO  com.gergert.task3.entity.LogisticBase - Van 15 acquired Terminal[id=4].
+2025-12-24 11:46:45.365 [pool-2-thread-15] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 15 moved from WAITING to PROCESSING.
+2025-12-24 11:46:45.500 [pool-2-thread-24] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 24 finished work. Leaving terminal.
+2025-12-24 11:46:45.500 [pool-2-thread-24] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=1] released.
+2025-12-24 11:46:45.501 [pool-2-thread-9] INFO  com.gergert.task3.entity.LogisticBase - Van 9 acquired Terminal[id=1].
+2025-12-24 11:46:45.501 [pool-2-thread-9] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 9 moved from WAITING to PROCESSING.
+2025-12-24 11:46:45.530 [pool-2-thread-18] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 18 finished work. Leaving terminal.
+2025-12-24 11:46:45.530 [pool-2-thread-18] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:46:45.530 [pool-2-thread-14] INFO  com.gergert.task3.entity.LogisticBase - Van 14 acquired Terminal[id=5].
+2025-12-24 11:46:45.531 [pool-2-thread-14] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 14 moved from WAITING to PROCESSING.
+2025-12-24 11:46:46.072 [pool-2-thread-15] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 15 finished work. Leaving terminal.
+2025-12-24 11:46:46.072 [pool-2-thread-15] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:46:46.073 [pool-2-thread-19] INFO  com.gergert.task3.entity.LogisticBase - Van 19 acquired Terminal[id=4].
+2025-12-24 11:46:46.073 [pool-2-thread-19] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 19 moved from WAITING to PROCESSING.
+2025-12-24 11:46:46.682 [pool-2-thread-8] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 8 finished work. Leaving terminal.
+2025-12-24 11:46:46.682 [pool-2-thread-8] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=2] released.
+2025-12-24 11:46:46.682 [pool-2-thread-2] INFO  com.gergert.task3.entity.LogisticBase - Van 2 acquired Terminal[id=2].
+2025-12-24 11:46:46.682 [pool-2-thread-2] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 2 moved from WAITING to PROCESSING.
+2025-12-24 11:46:47.181 [pool-2-thread-9] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 9 finished work. Leaving terminal.
+2025-12-24 11:46:47.181 [pool-2-thread-9] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=1] released.
+2025-12-24 11:46:47.182 [pool-2-thread-10] INFO  com.gergert.task3.entity.LogisticBase - Van 10 acquired Terminal[id=1].
+2025-12-24 11:46:47.183 [pool-2-thread-10] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 10 moved from WAITING to PROCESSING.
+2025-12-24 11:46:47.237 [pool-2-thread-5] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 5 finished work. Leaving terminal.
+2025-12-24 11:46:47.237 [pool-2-thread-5] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=3] released.
+2025-12-24 11:46:47.237 [pool-2-thread-25] INFO  com.gergert.task3.entity.LogisticBase - Van 25 acquired Terminal[id=3].
+2025-12-24 11:46:47.238 [pool-2-thread-25] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 25 moved from WAITING to PROCESSING.
+2025-12-24 11:46:47.453 [pool-2-thread-19] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 19 finished work. Leaving terminal.
+2025-12-24 11:46:47.453 [pool-2-thread-19] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:46:47.454 [pool-2-thread-3] INFO  com.gergert.task3.entity.LogisticBase - Van 3 acquired Terminal[id=4].
+2025-12-24 11:46:47.454 [pool-2-thread-3] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 3 moved from WAITING to PROCESSING.
+2025-12-24 11:46:47.475 [pool-2-thread-14] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 14 finished work. Leaving terminal.
+2025-12-24 11:46:47.475 [pool-2-thread-14] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:46:47.476 [pool-2-thread-16] INFO  com.gergert.task3.entity.LogisticBase - Van 16 acquired Terminal[id=5].
+2025-12-24 11:46:47.476 [pool-2-thread-16] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 16 moved from WAITING to PROCESSING.
+2025-12-24 11:46:48.092 [pool-2-thread-16] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 16 finished work. Leaving terminal.
+2025-12-24 11:46:48.092 [pool-2-thread-16] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:46:48.093 [pool-2-thread-17] INFO  com.gergert.task3.entity.LogisticBase - Van 17 acquired Terminal[id=5].
+2025-12-24 11:46:48.093 [pool-2-thread-17] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 17 moved from WAITING to PROCESSING.
+2025-12-24 11:46:48.368 [pool-2-thread-2] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 2 finished work. Leaving terminal.
+2025-12-24 11:46:48.368 [pool-2-thread-2] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=2] released.
+2025-12-24 11:46:48.369 [pool-2-thread-20] INFO  com.gergert.task3.entity.LogisticBase - Van 20 acquired Terminal[id=2].
+2025-12-24 11:46:48.369 [pool-2-thread-20] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 20 moved from WAITING to PROCESSING.
+2025-12-24 11:46:48.474 [pool-2-thread-10] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 10 finished work. Leaving terminal.
+2025-12-24 11:46:48.474 [pool-2-thread-10] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=1] released.
+2025-12-24 11:46:48.475 [pool-2-thread-13] INFO  com.gergert.task3.entity.LogisticBase - Van 13 acquired Terminal[id=1].
+2025-12-24 11:46:48.475 [pool-2-thread-13] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 13 moved from WAITING to PROCESSING.
+2025-12-24 11:46:48.493 [pool-2-thread-3] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 3 finished work. Leaving terminal.
+2025-12-24 11:46:48.493 [pool-2-thread-3] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:46:48.494 [pool-2-thread-4] INFO  com.gergert.task3.entity.LogisticBase - Van 4 acquired Terminal[id=4].
+2025-12-24 11:46:48.494 [pool-2-thread-4] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 4 moved from WAITING to PROCESSING.
+2025-12-24 11:46:48.832 [pool-2-thread-17] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 17 finished work. Leaving terminal.
+2025-12-24 11:46:48.832 [pool-2-thread-17] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:46:48.833 [pool-2-thread-6] INFO  com.gergert.task3.entity.LogisticBase - Van 6 acquired Terminal[id=5].
+2025-12-24 11:46:48.833 [pool-2-thread-6] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 6 moved from WAITING to PROCESSING.
+2025-12-24 11:46:48.938 [pool-2-thread-25] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 25 finished work. Leaving terminal.
+2025-12-24 11:46:48.938 [pool-2-thread-25] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=3] released.
+2025-12-24 11:46:48.939 [pool-2-thread-12] INFO  com.gergert.task3.entity.LogisticBase - Van 12 acquired Terminal[id=3].
+2025-12-24 11:46:48.939 [pool-2-thread-12] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 12 moved from WAITING to PROCESSING.
+2025-12-24 11:46:49.519 [pool-2-thread-6] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 6 finished work. Leaving terminal.
+2025-12-24 11:46:49.519 [pool-2-thread-6] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:46:49.594 [pool-2-thread-13] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 13 finished work. Leaving terminal.
+2025-12-24 11:46:49.594 [pool-2-thread-13] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=1] released.
+2025-12-24 11:46:49.597 [pool-2-thread-20] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 20 finished work. Leaving terminal.
+2025-12-24 11:46:49.597 [pool-2-thread-20] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=2] released.
+2025-12-24 11:46:50.246 [pool-2-thread-4] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 4 finished work. Leaving terminal.
+2025-12-24 11:46:50.246 [pool-2-thread-4] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:46:50.311 [pool-2-thread-12] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 12 finished work. Leaving terminal.
+2025-12-24 11:46:50.311 [pool-2-thread-12] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=3] released.
+2025-12-24 11:46:50.312 [main] INFO  com.gergert.task3.application.main - All operations completed.
+2025-12-24 11:57:18.996 [main] INFO  com.gergert.task3.application.main - Starting testing application
+2025-12-24 11:57:19.003 [main] INFO  gergert.task3.reader.impl.ReadDataFromFileImpl - Reading file: data/vans.txt
+2025-12-24 11:57:19.004 [main] INFO  gergert.task3.reader.impl.ReadDataFromFileImpl - Success on reading file, Read 25 lines from file data\vans.txt
+2025-12-24 11:57:19.007 [main] INFO  gergert.task3.parser.impl.VanParserImpl - Parsed 25 vans.
+2025-12-24 11:57:19.016 [pool-2-thread-22] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 22 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.016 [pool-2-thread-4] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 4 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.016 [pool-2-thread-10] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 10 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.016 [pool-2-thread-21] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 21 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.016 [pool-2-thread-23] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 23 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.016 [pool-2-thread-20] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 20 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.016 [pool-2-thread-17] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 17 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.016 [pool-2-thread-12] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 12 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.016 [pool-2-thread-19] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 19 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.016 [pool-2-thread-25] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 25 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.017 [pool-2-thread-2] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 2 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.017 [pool-2-thread-15] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 15 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.017 [pool-2-thread-16] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 16 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.018 [pool-2-thread-11] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 11 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.016 [pool-2-thread-24] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 24 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.017 [pool-2-thread-13] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 13 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.017 [pool-2-thread-18] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 18 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.018 [pool-2-thread-6] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 6 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.018 [pool-2-thread-3] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 3 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.018 [pool-2-thread-22] INFO  com.gergert.task3.entity.LogisticBase - Van 22 acquired Terminal[id=1].
+2025-12-24 11:57:19.019 [pool-2-thread-5] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 5 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.019 [pool-2-thread-22] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 22 moved from WAITING to PROCESSING.
+2025-12-24 11:57:19.019 [pool-2-thread-7] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 7 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.019 [pool-2-thread-9] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 9 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.019 [pool-2-thread-8] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 8 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.019 [pool-2-thread-23] INFO  com.gergert.task3.entity.LogisticBase - Van 23 acquired Terminal[id=2].
+2025-12-24 11:57:19.019 [pool-2-thread-1] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 1 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.019 [pool-2-thread-4] INFO  com.gergert.task3.entity.LogisticBase - Van 4 acquired Terminal[id=3].
+2025-12-24 11:57:19.019 [pool-2-thread-23] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 23 moved from WAITING to PROCESSING.
+2025-12-24 11:57:19.019 [pool-2-thread-14] INFO  gergert.task3.state.impl.VanNewStateImpl - Van 14 is initialized and heading to the Logistic Base.
+2025-12-24 11:57:19.020 [pool-2-thread-4] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 4 moved from WAITING to PROCESSING.
+2025-12-24 11:57:19.020 [pool-2-thread-10] INFO  com.gergert.task3.entity.LogisticBase - Van 10 acquired Terminal[id=4].
+2025-12-24 11:57:19.020 [pool-2-thread-10] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 10 moved from WAITING to PROCESSING.
+2025-12-24 11:57:19.020 [pool-2-thread-21] INFO  com.gergert.task3.entity.LogisticBase - Van 21 acquired Terminal[id=5].
+2025-12-24 11:57:19.020 [pool-2-thread-21] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 21 moved from WAITING to PROCESSING.
+2025-12-24 11:57:19.020 [pool-2-thread-2] DEBUG com.gergert.task3.entity.LogisticBase - Van 2 normal waits.
+2025-12-24 11:57:19.021 [pool-2-thread-15] DEBUG com.gergert.task3.entity.LogisticBase - Van 15 perishable waits for terminal.
+2025-12-24 11:57:19.021 [pool-2-thread-16] DEBUG com.gergert.task3.entity.LogisticBase - Van 16 normal waits.
+2025-12-24 11:57:19.021 [pool-2-thread-11] DEBUG com.gergert.task3.entity.LogisticBase - Van 11 perishable waits for terminal.
+2025-12-24 11:57:19.021 [pool-2-thread-19] DEBUG com.gergert.task3.entity.LogisticBase - Van 19 normal waits.
+2025-12-24 11:57:19.022 [pool-2-thread-17] DEBUG com.gergert.task3.entity.LogisticBase - Van 17 normal waits.
+2025-12-24 11:57:19.022 [pool-2-thread-20] DEBUG com.gergert.task3.entity.LogisticBase - Van 20 normal waits.
+2025-12-24 11:57:19.022 [pool-2-thread-25] DEBUG com.gergert.task3.entity.LogisticBase - Van 25 normal waits.
+2025-12-24 11:57:19.022 [pool-2-thread-12] DEBUG com.gergert.task3.entity.LogisticBase - Van 12 normal waits.
+2025-12-24 11:57:19.022 [pool-2-thread-24] DEBUG com.gergert.task3.entity.LogisticBase - Van 24 perishable waits for terminal.
+2025-12-24 11:57:19.024 [pool-2-thread-13] DEBUG com.gergert.task3.entity.LogisticBase - Van 13 normal waits.
+2025-12-24 11:57:19.024 [pool-2-thread-18] DEBUG com.gergert.task3.entity.LogisticBase - Van 18 perishable waits for terminal.
+2025-12-24 11:57:19.024 [pool-2-thread-6] DEBUG com.gergert.task3.entity.LogisticBase - Van 6 normal waits.
+2025-12-24 11:57:19.024 [pool-2-thread-3] DEBUG com.gergert.task3.entity.LogisticBase - Van 3 normal waits.
+2025-12-24 11:57:19.024 [pool-2-thread-5] DEBUG com.gergert.task3.entity.LogisticBase - Van 5 perishable waits for terminal.
+2025-12-24 11:57:19.025 [pool-2-thread-7] DEBUG com.gergert.task3.entity.LogisticBase - Van 7 normal waits.
+2025-12-24 11:57:19.025 [pool-2-thread-9] DEBUG com.gergert.task3.entity.LogisticBase - Van 9 normal waits.
+2025-12-24 11:57:19.025 [pool-2-thread-8] DEBUG com.gergert.task3.entity.LogisticBase - Van 8 perishable waits for terminal.
+2025-12-24 11:57:19.026 [pool-2-thread-1] DEBUG com.gergert.task3.entity.LogisticBase - Van 1 normal waits.
+2025-12-24 11:57:19.026 [pool-2-thread-14] DEBUG com.gergert.task3.entity.LogisticBase - Van 14 normal waits.
+2025-12-24 11:57:20.199 [pool-2-thread-10] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 10 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:20.201 [pool-2-thread-10] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:57:20.201 [pool-2-thread-15] INFO  com.gergert.task3.entity.LogisticBase - Van 15 acquired Terminal[id=4].
+2025-12-24 11:57:20.202 [pool-2-thread-15] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 15 moved from WAITING to PROCESSING.
+2025-12-24 11:57:20.478 [pool-2-thread-22] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 22 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:20.478 [pool-2-thread-22] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=1] released.
+2025-12-24 11:57:20.479 [pool-2-thread-11] INFO  com.gergert.task3.entity.LogisticBase - Van 11 acquired Terminal[id=1].
+2025-12-24 11:57:20.479 [pool-2-thread-11] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 11 moved from WAITING to PROCESSING.
+2025-12-24 11:57:20.804 [pool-2-thread-21] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 21 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:20.804 [pool-2-thread-21] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:57:20.805 [pool-2-thread-24] INFO  com.gergert.task3.entity.LogisticBase - Van 24 acquired Terminal[id=5].
+2025-12-24 11:57:20.805 [pool-2-thread-24] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 24 moved from WAITING to PROCESSING.
+2025-12-24 11:57:20.854 [pool-2-thread-23] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 23 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:20.854 [pool-2-thread-23] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=2] released.
+2025-12-24 11:57:20.854 [pool-2-thread-18] INFO  com.gergert.task3.entity.LogisticBase - Van 18 acquired Terminal[id=2].
+2025-12-24 11:57:20.854 [pool-2-thread-18] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 18 moved from WAITING to PROCESSING.
+2025-12-24 11:57:20.957 [pool-2-thread-4] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 4 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:20.957 [pool-2-thread-4] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=3] released.
+2025-12-24 11:57:20.958 [pool-2-thread-5] INFO  com.gergert.task3.entity.LogisticBase - Van 5 acquired Terminal[id=3].
+2025-12-24 11:57:20.958 [pool-2-thread-5] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 5 moved from WAITING to PROCESSING.
+2025-12-24 11:57:21.666 [pool-2-thread-24] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 24 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:21.666 [pool-2-thread-24] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:57:21.666 [pool-2-thread-8] INFO  com.gergert.task3.entity.LogisticBase - Van 8 acquired Terminal[id=5].
+2025-12-24 11:57:21.666 [pool-2-thread-8] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 8 moved from WAITING to PROCESSING.
+2025-12-24 11:57:21.875 [pool-2-thread-15] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 15 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:21.876 [pool-2-thread-15] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:57:21.876 [pool-2-thread-2] INFO  com.gergert.task3.entity.LogisticBase - Van 2 acquired Terminal[id=4].
+2025-12-24 11:57:21.877 [pool-2-thread-2] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 2 moved from WAITING to PROCESSING.
+2025-12-24 11:57:22.014 [pool-2-thread-11] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 11 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:22.014 [pool-2-thread-11] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=1] released.
+2025-12-24 11:57:22.014 [pool-2-thread-16] INFO  com.gergert.task3.entity.LogisticBase - Van 16 acquired Terminal[id=1].
+2025-12-24 11:57:22.014 [pool-2-thread-16] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 16 moved from WAITING to PROCESSING.
+2025-12-24 11:57:22.391 [pool-2-thread-18] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 18 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:22.392 [pool-2-thread-18] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=2] released.
+2025-12-24 11:57:22.392 [pool-2-thread-19] INFO  com.gergert.task3.entity.LogisticBase - Van 19 acquired Terminal[id=2].
+2025-12-24 11:57:22.392 [pool-2-thread-19] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 19 moved from WAITING to PROCESSING.
+2025-12-24 11:57:22.639 [pool-2-thread-5] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 5 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:22.639 [pool-2-thread-5] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=3] released.
+2025-12-24 11:57:22.640 [pool-2-thread-17] INFO  com.gergert.task3.entity.LogisticBase - Van 17 acquired Terminal[id=3].
+2025-12-24 11:57:22.640 [pool-2-thread-17] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 17 moved from WAITING to PROCESSING.
+2025-12-24 11:57:22.869 [pool-2-thread-8] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 8 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:22.870 [pool-2-thread-8] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:57:22.870 [pool-2-thread-20] INFO  com.gergert.task3.entity.LogisticBase - Van 20 acquired Terminal[id=5].
+2025-12-24 11:57:22.870 [pool-2-thread-20] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 20 moved from WAITING to PROCESSING.
+2025-12-24 11:57:23.362 [pool-2-thread-19] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 19 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:23.363 [pool-2-thread-19] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=2] released.
+2025-12-24 11:57:23.363 [pool-2-thread-25] INFO  com.gergert.task3.entity.LogisticBase - Van 25 acquired Terminal[id=2].
+2025-12-24 11:57:23.363 [pool-2-thread-25] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 25 moved from WAITING to PROCESSING.
+2025-12-24 11:57:23.673 [pool-2-thread-2] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 2 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:23.673 [pool-2-thread-2] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:57:23.674 [pool-2-thread-12] INFO  com.gergert.task3.entity.LogisticBase - Van 12 acquired Terminal[id=4].
+2025-12-24 11:57:23.674 [pool-2-thread-12] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 12 moved from WAITING to PROCESSING.
+2025-12-24 11:57:23.733 [pool-2-thread-16] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 16 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:23.733 [pool-2-thread-16] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=1] released.
+2025-12-24 11:57:23.734 [pool-2-thread-13] INFO  com.gergert.task3.entity.LogisticBase - Van 13 acquired Terminal[id=1].
+2025-12-24 11:57:23.734 [pool-2-thread-13] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 13 moved from WAITING to PROCESSING.
+2025-12-24 11:57:23.920 [pool-2-thread-25] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 25 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:23.920 [pool-2-thread-25] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=2] released.
+2025-12-24 11:57:23.921 [pool-2-thread-6] INFO  com.gergert.task3.entity.LogisticBase - Van 6 acquired Terminal[id=2].
+2025-12-24 11:57:23.921 [pool-2-thread-6] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 6 moved from WAITING to PROCESSING.
+2025-12-24 11:57:24.267 [pool-2-thread-20] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 20 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:24.267 [pool-2-thread-20] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:57:24.268 [pool-2-thread-3] INFO  com.gergert.task3.entity.LogisticBase - Van 3 acquired Terminal[id=5].
+2025-12-24 11:57:24.268 [pool-2-thread-3] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 3 moved from WAITING to PROCESSING.
+2025-12-24 11:57:24.278 [pool-2-thread-12] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 12 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:24.278 [pool-2-thread-12] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:57:24.279 [pool-2-thread-7] INFO  com.gergert.task3.entity.LogisticBase - Van 7 acquired Terminal[id=4].
+2025-12-24 11:57:24.279 [pool-2-thread-7] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 7 moved from WAITING to PROCESSING.
+2025-12-24 11:57:24.389 [pool-2-thread-17] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 17 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:24.389 [pool-2-thread-17] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=3] released.
+2025-12-24 11:57:24.390 [pool-2-thread-9] INFO  com.gergert.task3.entity.LogisticBase - Van 9 acquired Terminal[id=3].
+2025-12-24 11:57:24.390 [pool-2-thread-9] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 9 moved from WAITING to PROCESSING.
+2025-12-24 11:57:24.674 [pool-2-thread-13] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 13 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:24.674 [pool-2-thread-13] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=1] released.
+2025-12-24 11:57:24.675 [pool-2-thread-1] INFO  com.gergert.task3.entity.LogisticBase - Van 1 acquired Terminal[id=1].
+2025-12-24 11:57:24.675 [pool-2-thread-1] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 1 moved from WAITING to PROCESSING.
+2025-12-24 11:57:24.890 [pool-2-thread-7] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 7 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:24.891 [pool-2-thread-7] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:57:24.891 [pool-2-thread-14] INFO  com.gergert.task3.entity.LogisticBase - Van 14 acquired Terminal[id=4].
+2025-12-24 11:57:24.891 [pool-2-thread-14] INFO  gergert.task3.state.impl.VanWaitingStateImpl - Van 14 moved from WAITING to PROCESSING.
+2025-12-24 11:57:24.912 [pool-2-thread-3] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 3 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:24.912 [pool-2-thread-3] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=5] released.
+2025-12-24 11:57:24.956 [pool-2-thread-6] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 6 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:24.956 [pool-2-thread-6] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=2] released.
+2025-12-24 11:57:25.148 [pool-2-thread-9] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 9 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:25.148 [pool-2-thread-9] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=3] released.
+2025-12-24 11:57:25.637 [pool-2-thread-1] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 1 finished LOAD. finished work. Leaving terminal.
+2025-12-24 11:57:25.637 [pool-2-thread-1] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=1] released.
+2025-12-24 11:57:26.086 [pool-2-thread-14] INFO  gergert.task3.state.impl.VanProcessingStateImpl - Van 14 finished UNLOAD. finished work. Leaving terminal.
+2025-12-24 11:57:26.086 [pool-2-thread-14] INFO  com.gergert.task3.entity.LogisticBase - Terminal[id=4] released.
+2025-12-24 11:57:26.087 [main] INFO  com.gergert.task3.application.main - All operations completed.

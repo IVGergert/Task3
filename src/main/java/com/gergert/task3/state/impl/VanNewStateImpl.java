@@ -12,4 +12,9 @@ public class VanNewStateImpl implements VanState {
         logger.info("Van {} is initialized and heading to the Logistic Base.", van.getId());
         van.setState(new VanWaitingStateImpl());
     }
+
+    @Override
+    public String getNameState() {
+        return "NEW";
+    }
 }
