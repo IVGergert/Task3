@@ -36,11 +36,12 @@ public class main {
         }
 
         executor.shutdown();
+
         try {
             if (executor.awaitTermination(60, TimeUnit.SECONDS)) {
                 logger.info("All operations completed.");
             } else {
-                executor.shutdownNow(); // Если зависли - убиваем принудительно
+                executor.shutdownNow();
             }
         } catch (InterruptedException e){
             executor.shutdown();
