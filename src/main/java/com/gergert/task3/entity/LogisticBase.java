@@ -13,6 +13,14 @@ public class LogisticBase {
     private static final Logger logger = LogManager.getLogger();
     private static final int TERMINAL_COUNT = 5;
 
+    private final Queue<Terminal> freeTerminals;
+    private final Lock lock = new ReentrantLock(true);
+
+    private final Condition normalQueue = lock.newCondition();
+    private final Condition perishableQueue = lock.newCondition();
+
+    private int waitingPerishablesCount;
+
     private LogisticBase() {
         freeTerminals = new LinkedList<>();
         for (int i = 1; i <= TERMINAL_COUNT; i++) {
@@ -27,14 +35,6 @@ public class LogisticBase {
     public static LogisticBase getInstance() {
         return SingletonHolder.INSTANCE;
     }
-
-    private final Queue<Terminal> freeTerminals;
-    private final Lock lock = new ReentrantLock(true);
-
-    private final Condition normalQueue = lock.newCondition();
-    private final Condition perishableQueue = lock.newCondition();
-
-    private int waitingPerishablesCount = 0;
 
     public Terminal getTerminal(Van van) {
         lock.lock();
